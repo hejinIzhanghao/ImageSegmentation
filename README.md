@@ -32,12 +32,14 @@ An implementation of "UNet++: A Nested U-Net Architecture for Medical Image Segm
 Dilated Convolution for Semantic Image Segmentation 
 
 ## deeplab
+- http://liangchiehchen.com/projects/DeepLab.html
+homepage of deeplab
 - https://sthalles.github.io/deep_segmentation_network/
-Explanation of Deeplab.
+Explanation of Deeplabv3.
 - https://github.com/DrSleep/tensorflow-deeplab-resnet
 tensorflow implementation of deeplab v2
 - https://github.com/sthalles/deeplab_v3
-Implementation of deeplab v3
+tensorflow implementation of deeplab v3
 - https://github.com/bonlime/keras-deeplab-v3-plus
 Keras implementation of Deeplab v3+ with pretrained weights
 
