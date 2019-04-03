@@ -42,7 +42,8 @@ tensorflow implementation of deeplab v2
 tensorflow implementation of deeplab v3
 - https://github.com/bonlime/keras-deeplab-v3-plus
 Keras implementation of Deeplab v3+ with pretrained weights
-
+- https://github.com/rishizek/tensorflow-deeplab-v3-plus
+DeepLabv3+ built in TensorFlow 
 
 ## PSPNet
 - https://hszhao.github.io/projects/pspnet/
@@ -58,16 +59,18 @@ Implementation of "ICNet for Real-Time Semantic Segmentation on High-Resolution 
 - https://github.com/hellochick/ICNet-tensorflow
 TensorFlow-based implementation of "ICNet for Real-Time Semantic Segmentation on High-Resolution Images".
 
+## E-net & linknet
+- https://github.com/zlkanata/DeepGlobe-Road-Extraction-Challenge
+D-LinkNet: LinkNet with Pretrained Encoder and Dilated Convolution for High Resolution Satellite Imagery Road Extraction 
+
 ## RefineNet
 - https://github.com/guosheng/refinenet
 MATLAB and MatConvNet based implementation.
 - https://github.com/DrSleep/light-weight-refinenet
 Light-Weight RefineNet for Real-Time Semantic Segmentation in Pytorch
-
 ## FRRN
 - https://github.com/hiwonjoon/tf-frrn
 Implementation of FRRn in tensorflow
-
 ## Segnet
 - http://mi.eng.cam.ac.uk/projects/segnet/
 Homepage of Segnet
