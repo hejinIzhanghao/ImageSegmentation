@@ -1,5 +1,4 @@
-# ImageSegmentation
-resources for image segmentation
+# SementaticImageSegmentation
 
 ## Resources
 - https://github.com/meetshah1995/pytorch-semseg
