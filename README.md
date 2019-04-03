@@ -9,6 +9,8 @@ Semantic Segmentation Architectures Implemented in PyTorch, including PSPNet, IC
 An implementation of "UNet++: A Nested U-Net Architecture for Medical Image Segmentation" in Keras
 
 ## PSPNet
+- https://hszhao.github.io/projects/pspnet/
+homepage of PSPNet
 - https://github.com/hszhao/PSPNet
 Implementation of "Pyramid Scene Parsing Network" in Caffe
 
