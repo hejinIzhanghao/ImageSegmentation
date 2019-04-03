@@ -68,3 +68,6 @@ Homepage of Segnet
 ## DeconvNet
 https://github.com/HyeonwooNoh/DeconvNet
 "DeconvNet : Learning Deconvolution Network for Semantic Segmentation" in Caffe
+## Large kernel matters
+- https://github.com/ZijunDeng/pytorch-semantic-segmentation
+large kernel matters in PyTorch.
