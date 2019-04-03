@@ -8,6 +8,17 @@ Semantic Segmentation Architectures Implemented in PyTorch, including PSPNet, IC
 - https://github.com/MrGiovanni/UNetPlusPlus
 An implementation of "UNet++: A Nested U-Net Architecture for Medical Image Segmentation" in Keras
 
+## PSPNet
+- https://github.com/hszhao/PSPNet
+Implementation of "Pyramid Scene Parsing Network" in Caffe
+
 ## ICNet
+- https://hszhao.github.io/projects/icnet/
+Homepage of ICNet
+- https://github.com/hszhao/ICNet
+Implementation of "ICNet for Real-Time Semantic Segmentation on High-Resolution Images" in Caffe.
 - https://github.com/hellochick/ICNet-tensorflow
 TensorFlow-based implementation of "ICNet for Real-Time Semantic Segmentation on High-Resolution Images".
+
+## FRRN
+- https://github.com/hiwonjoon/tf-frrn
