@@ -58,6 +58,12 @@ Implementation of "ICNet for Real-Time Semantic Segmentation on High-Resolution 
 - https://github.com/hellochick/ICNet-tensorflow
 TensorFlow-based implementation of "ICNet for Real-Time Semantic Segmentation on High-Resolution Images".
 
+## RefineNet
+- https://github.com/guosheng/refinenet
+MATLAB and MatConvNet based implementation.
+- https://github.com/DrSleep/light-weight-refinenet
+Light-Weight RefineNet for Real-Time Semantic Segmentation in Pytorch
+
 ## FRRN
 - https://github.com/hiwonjoon/tf-frrn
 Implementation of FRRn in tensorflow
