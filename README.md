@@ -61,3 +61,7 @@ TensorFlow-based implementation of "ICNet for Real-Time Semantic Segmentation on
 ## FRRN
 - https://github.com/hiwonjoon/tf-frrn
 Implementation of FRRn in tensorflow
+
+## Segnet
+- http://mi.eng.cam.ac.uk/projects/segnet/
+Homepage of Segnet
