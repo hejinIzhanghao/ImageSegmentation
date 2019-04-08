@@ -9,6 +9,13 @@ pytorch Implementation of U-Net, R2U-Net, Attention U-Net, Attention R2U-Net.
 Implementation of Segnet, FCN, UNet and other models in Keras. 
 - https://github.com/ankitdhall/imageSegmentation
 Image Segmentation using Texture and Color features in C++ 
+
+## MRF & CRF
+- https://github.com/lucasb-eyer/pydensecrf
+Python wrapper to Philipp Krähenbühl's dense (fully connected) CRFs with gaussian edge potentials.
+- https://github.com/sunyao123/CRF-semantic-segmentation
+CRF-semantic-segmentation
+
 ## U-Net
 - https://www.kaggle.com/keegil/keras-u-net-starter-lb-0-277?scriptVersionId=2164855/notebook
 Keras U-Net starter.
