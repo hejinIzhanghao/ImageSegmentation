@@ -66,6 +66,12 @@ Implementation of "ICNet for Real-Time Semantic Segmentation on High-Resolution 
 - https://github.com/hellochick/ICNet-tensorflow
 TensorFlow-based implementation of "ICNet for Real-Time Semantic Segmentation on High-Resolution Images".
 
+## 
+- https://github.com/scaelles/DEXTR-KerasTensorflow
+Keras of Deep Extreme Cut.
+- https://github.com/scaelles/DEXTR-PyTorch
+Pytorch of Deep Extreme Cut.
+
 ## E-net & linknet
 - https://github.com/zlkanata/DeepGlobe-Road-Extraction-Challenge
 D-LinkNet: LinkNet with Pretrained Encoder and Dilated Convolution for High Resolution Satellite Imagery Road Extraction 
