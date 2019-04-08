@@ -87,3 +87,7 @@ https://github.com/HyeonwooNoh/DeconvNet
 ## Large kernel matters
 - https://github.com/ZijunDeng/pytorch-semantic-segmentation
 large kernel matters in PyTorch.
+
+## DAM
+- https://github.com/junfu1115/DANet
+Dual Attention Network for Scene Segmentation (CVPR2019) 
