@@ -53,6 +53,8 @@ tensorflow implementation of deeplab v3
 Keras implementation of Deeplab v3+ with pretrained weights
 - https://github.com/rishizek/tensorflow-deeplab-v3-plus
 DeepLabv3+ built in TensorFlow 
+- https://github.com/Golbstein/Keras-segmentation-deeplab-v3.1
+Improvement on deeplabv3+ supporting subpixel, CRF, fast training...
 
 ## PSPNet
 - https://hszhao.github.io/projects/pspnet/
