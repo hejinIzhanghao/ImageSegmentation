@@ -35,6 +35,12 @@ UNet model with VGG11 encoder pre-trained on Kaggle Carvana dataset
 Satellite Imagery Feature Detection with SpaceNet dataset using deep UNet 
 - https://github.com/MrGiovanni/UNetPlusPlus
 An implementation of "UNet++: A Nested U-Net Architecture for Medical Image Segmentation" in Keras
+- https://github.com/1044197988/Semantic-segmentation-of-remote-sensing-images
+基于深度学习关于遥感影像的语义分割
+- https://github.com/TachibanaYoshino/Remote-sensing-image-semantic-segmentation
+Unet-based improved networks to study Remote sensing image semantic segmentation, which is based on keras. 
+- https://github.com/unlimblue/u_net
+u net (remote sensing image segmentation) 
 
 ## Dilation convolution
 - https://github.com/fyu/dilation
@@ -55,6 +61,8 @@ Keras implementation of Deeplab v3+ with pretrained weights
 DeepLabv3+ built in TensorFlow 
 - https://github.com/Golbstein/Keras-segmentation-deeplab-v3.1
 Improvement on deeplabv3+ supporting subpixel, CRF, fast training...
+- https://github.com/Epsilon123/Semantic-Segmentation-of-Remote-Sensing-Images
+遥感图像的语义分割，分别使用Deeplab V3+(Xception 和mobilenet V2 backbone)和unet模型，keras+python 
 
 ## PSPNet
 - https://hszhao.github.io/projects/pspnet/
