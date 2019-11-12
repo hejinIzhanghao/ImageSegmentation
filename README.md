@@ -12,6 +12,10 @@ Image Segmentation using Texture and Color features in C++
 - https://github.com/qubvel/segmentation_models
 Image Segmentation based on Keras with models of Unet, FPN, Linknet, PSPNet
 
+## Edge Tracking
+- https://github.com/NathanUA/Edge-based-Salient-Boundary-Tracking
+Real-time salient closed boundary tracking using perceptual grouping and shape priors (BMVC 2017)
+
 ## MRF & CRF
 - https://github.com/lucasb-eyer/pydensecrf
 Python wrapper to Philipp Krähenbühl's dense (fully connected) CRFs with gaussian edge potentials.
