@@ -11,6 +11,10 @@ Implementation of Segnet, FCN, UNet and other models in Keras.
 Image Segmentation using Texture and Color features in C++ 
 - https://github.com/qubvel/segmentation_models
 Image Segmentation based on Keras with models of Unet, FPN, Linknet, PSPNet
+- https://github.com/CSAILVision/sceneparsing
+Development kit for MIT Scene Parsing Benchmark
+- https://github.com/CSAILVision/semantic-segmentation-pytorch
+Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset 
 
 ## Edge Tracking
 - https://github.com/NathanUA/Edge-based-Salient-Boundary-Tracking
@@ -82,7 +86,7 @@ Implementation of "ICNet for Real-Time Semantic Segmentation on High-Resolution 
 - https://github.com/hellochick/ICNet-tensorflow
 TensorFlow-based implementation of "ICNet for Real-Time Semantic Segmentation on High-Resolution Images".
 
-## 
+## DEXTR-PyTorch
 - https://github.com/scaelles/DEXTR-KerasTensorflow
 Keras of Deep Extreme Cut.
 - https://github.com/scaelles/DEXTR-PyTorch
@@ -105,7 +109,10 @@ Implementation of FRRn in tensorflow
 Homepage of Segnet
 - https://github.com/alexgkendall/caffe-segnet
 Caffe implementation of SegNet
-
+- https://github.com/alexturn/SegNet
+Semantic segmentation for road scenes
+- https://github.com/alexgkendall/SegNet-Tutorial
+Files for a tutorial to train SegNet for road scenes using the CamVid dataset
 
 ## DeconvNet
 https://github.com/HyeonwooNoh/DeconvNet
@@ -114,6 +121,6 @@ https://github.com/HyeonwooNoh/DeconvNet
 - https://github.com/ZijunDeng/pytorch-semantic-segmentation
 large kernel matters in PyTorch.
 
-## DAM
+## DANet
 - https://github.com/junfu1115/DANet
 Dual Attention Network for Scene Segmentation (CVPR2019) 
