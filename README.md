@@ -101,8 +101,12 @@ Light-Weight RefineNet for Real-Time Semantic Segmentation in Pytorch
 - https://github.com/hiwonjoon/tf-frrn
 Implementation of FRRn in tensorflow
 ## Segnet
-- http://mi.eng.cam.ac.uk/projects/segnet/
+- http://mi.eng.cam.ac.uk/projects/segnet
 Homepage of Segnet
+- https://github.com/alexgkendall/caffe-segnet
+Caffe implementation of SegNet
+
+
 ## DeconvNet
 https://github.com/HyeonwooNoh/DeconvNet
 "DeconvNet : Learning Deconvolution Network for Semantic Segmentation" in Caffe
