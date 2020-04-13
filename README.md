@@ -51,6 +51,8 @@ An implementation of "UNet++: A Nested U-Net Architecture for Medical Image Segm
 Unet-based improved networks to study Remote sensing image semantic segmentation, which is based on keras. 
 - https://github.com/unlimblue/u_net
 u net (remote sensing image segmentation) 
+- https://github.com/LiaoLIDIP/sea_sky_segmentation
+U-net for sea-sky segmentation
 
 ## Dilation convolution
 - https://github.com/fyu/dilation
