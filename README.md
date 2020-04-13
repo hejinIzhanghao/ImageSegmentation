@@ -1,6 +1,8 @@
 # SementaticImageSegmentation
 
 ## Resources
+- https://github.com/commaai/comma10k
+10k crowdsourced images for training segnets
 - https://github.com/meetshah1995/pytorch-semseg
 Semantic Segmentation Architectures Implemented in PyTorch, including PSPNet, ICNet, FRRN, FCN, U-Net, LinkNet, Segnet
 - https://github.com/LeeJunHyun/Image_Segmentation
