@@ -115,6 +115,8 @@ Caffe implementation of SegNet
 Semantic segmentation for road scenes
 - https://github.com/alexgkendall/SegNet-Tutorial
 Files for a tutorial to train SegNet for road scenes using the CamVid dataset
+- https://github.com/developmentseed/skynet-train
+Training and test the SegNet neural network on satellite imagery 
 
 ## DeconvNet
 https://github.com/HyeonwooNoh/DeconvNet
