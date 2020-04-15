@@ -113,10 +113,12 @@ Implementation of FRRn in tensorflow
 Homepage of Segnet
 - https://github.com/alexgkendall/caffe-segnet
 Caffe implementation of SegNet
-- https://github.com/alexturn/SegNet
-Semantic segmentation for road scenes
 - https://github.com/alexgkendall/SegNet-Tutorial
 Files for a tutorial to train SegNet for road scenes using the CamVid dataset
+- https://github.com/alexgkendall/SegNet-Tutorial/blob/master/Example_Models/segnet_model_zoo.md
+example SegNet models
+- https://github.com/alexturn/SegNet
+Semantic segmentation for road scenes
 - https://github.com/developmentseed/skynet-train
 Training and test the SegNet neural network on satellite imagery 
 
